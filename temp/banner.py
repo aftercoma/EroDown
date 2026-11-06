@@ -4,7 +4,7 @@ class menu:
     def __init__(self):
         print ("""
         [EROME DOWNLOADER CLI VERSION FREE by @aftercoma]
-                --Fast Use Thread and async
+      --Please turn on VPN if u want working on this tools 
                --Bug? Just Report Of Issues
         ---------------------------------------------------
         help:
